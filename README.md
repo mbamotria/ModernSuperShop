@@ -137,10 +137,6 @@ The backend provides RESTful API endpoints for:
 - Passwords are hashed using Werkzeug security
 - CORS is enabled for cross-origin requests
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - Built with React and Vite
