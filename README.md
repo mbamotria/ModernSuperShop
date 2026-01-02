@@ -14,6 +14,53 @@ A comprehensive shop stock simulator and management system built with React and 
 - **PDF Generation**: Generate receipts and reports using jsPDF
 - **Responsive Design**: Built with Tailwind CSS for mobile and desktop compatibility
 
+## Screenshots
+
+### Login Page
+![Login Page](images/LoginPage.jpg)
+
+### Register Page
+![Register Page](images/RegisterPage.jpg)
+
+### Dashboard
+![Dashboard](images/DashboardPage.jpg)
+
+### Marketplace
+![Marketplace](images/marketplace.jpg)
+
+### Shopping Cart
+![Shopping Cart](images/cart.jpg)
+
+### Checkout
+![Checkout](images/checkout.jpg)
+
+### Order History
+![Order History](images/OrderHistory.jpg)
+
+### Receipt Generation
+![Receipt](images/Receipt.jpg)
+
+### Profile Page
+![Profile Page](images/Profile.jpg)
+
+### Update Profile
+![Update Profile](images/UpdateProfile.jpg)
+
+### User Management (Admin)
+![User Management](images/UserManagement.jpg)
+
+### Add Product
+![Add Product](images/addProduct.jpg)
+
+### Analysis Dashboard
+![Analysis Dashboard](images/Analysis.jpg)
+
+### Sales Analysis
+![Sales Analysis](images/SalesAnalysis.jpg)
+
+### AI Integration
+![AI Integration](images/AIIntegration.jpg)
+
 ## Tech Stack
 
 ### Frontend
